@@ -1,0 +1,3398 @@
+@media screen and (max-width: 500px) {
+  .go{
+    float: left;
+    margin-left: 50px;
+    padding-top: 10px;
+  }
+
+  .go1{
+  float: left;
+  top: -40px;
+  font-size: 12px;
+    position: relative;
+  }
+  .ed{
+    float: right;
+  }
+
+  header{
+    background-color: white;
+    overflow: hidden;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom:0;
+    z-index:1;
+    width: 100%;
+  }
+header .logogo{
+width: 30%;
+height: 30%;
+position: relative;
+top: 25px;
+left: -40px;
+}
+  .btn1{
+    display: none;
+  }
+.aisiiteru{
+background: red;
+width: 80px;
+height: 100px;
+position: relative;
+top: -40px;
+}
+.harahextuta{
+padding: 10px 20px 20px 20px;
+position: absolute;
+}
+.seikyuusu{
+position: absolute;
+color: white;
+padding-top: 30px;
+}
+.btn2{
+display:inline-block;
+background-color: red;
+color: white;
+border-radius: 30px;
+text-decoration: none;
+text-align: center;
+padding: 10px 30px;
+opacity: 0.6;
+font-size: 16px;
+margin-top: -55px;
+margin-right:0px;
+width: 18%;
+position: absolute;
+right: 100px;
+
+}
+  /* ポジションの配置で画像の真ん中に文字を持っていきます。 */
+
+  .bob .hhhhu{
+    display: none;
+  }
+  .bob{
+    position: relative;
+  }
+.bob .jjjjjjj{
+width: 100%;
+height: 350px;
+}
+  .bob .mariha{
+    position: absolute;
+    top: 23%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin:0;
+    padding:0;
+    font-size: 15px;
+    /*文字の装飾は省略*/
+    }
+  .bob .mmarini{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin:0;
+    padding:0;
+    font-size: 15px;
+    /*文字の装飾は省略*/
+    }
+
+  .bob .going {
+    position: absolute;
+      top: 53%;
+      left: 50%;
+      -ms-transform: translate(-50%,-50%);
+      -webkit-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      margin:0;
+      padding:0;
+
+      /*文字の装飾は省略*/
+      }
+
+      .bob .hue{
+        position: absolute;
+        top: 78%;
+        left: 50%;
+        -ms-transform: translate(-50%,-50%);
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        margin:0;
+        padding:0;
+        width: 100%;
+        text-align: center;
+        /*文字の装飾は省略*/
+        }
+      .bob .huee{
+        position: absolute;
+        top: 82%;
+        left: 50%;
+        -ms-transform: translate(-50%,-50%);
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        margin:0;
+        padding:0;
+        /*文字の装飾は省略*/
+        }
+        .mogura{
+          display: block;
+        }
+
+  /* にばんめ */
+ .tokotokotoko{
+   font-size: 14px;
+ }
+.tokotokotoko{
+  font-size: 14px;
+}
+  .two{
+    text-align: center;
+    background: #e4b935;
+    margin-top: -23px;
+    height: 650px;
+  }
+ .dododod{
+   display: none;
+ }
+  .gomikuzu{
+    background: white;
+    color: red;
+    border-radius: 5px;
+    width: 95%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    font-size: 14px;
+  }
+  .btn2{
+    display: none;
+  }
+  .btn22{
+   display: inline-block;
+   background-color: red;
+   color: white;
+   border-radius: 60px;
+   text-decoration: none;
+   padding: 25px 30px;
+   opacity: 0.7;
+   font-size: 20px;
+   margin-top: 20px;
+   margin-right:10px;
+   margin-bottom: 30px;
+   width: 70%;
+  }
+
+  .btn22:hover{
+    opacity: 1.0;
+  }
+
+  .one{
+    padding-top: 50px;
+    color: white;
+
+  }
+.twitter-share-button{
+  padding-left: 90px;
+  padding-bottom: 20px;
+}
+.anoanoano{
+  margin-right: 10px;
+}
+  .fabi{
+  position: absolute;
+  width: 100%;
+  left: -90px;
+  }
+
+.ryouseibai{
+right:80px;
+  position: absolute;
+}
+  /* 稼ぐ力なんとかのページ入ります　 */
+
+  .robot{
+    background-image:url("../img/introbottom.jpg");
+    text-align: center;
+
+    background-size:100%;
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 600px;
+    width:100%;
+    margin-top: -20px;
+    padding-top: 20px;
+  background-position: center;
+  }
+
+  .kasususu{
+    border-bottom: 4px solid #e4b935;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  #frame-box-001{
+    display: none;
+  }
+
+  #frame-box-0022 {
+    padding-top: -20px;
+    padding-right: 0px;
+    margin-top: 10px;
+    font-size: 16px;
+    position: relative;
+  }
+
+  #frame-box-0022::before, #frame-box-0022::after {
+    content: '';
+    width: 40px;
+    height: 30px;
+    position: absolute;
+  }
+
+  #frame-box-0022::before {
+    border-left: solid 4px #e4b935;
+    border-top: solid 4px #e4b935;
+    top: -23px;
+    left: 10px;
+  }
+
+  #frame-box-0022::after {
+    border-right: solid 4px #e4b935;
+    border-bottom: solid 4px #e4b935;
+    bottom: -13px;
+    right: 20px;
+  }
+  .WWWWW{
+    display: none;
+  }
+
+  .WWWWW1{
+    font-size: 14px;
+  }
+
+  /* ノマドエンジニア育成講座 */
+  /* iSara[イサラ]とは */
+
+  .what{
+    background-color: #eedcb3;
+    margin-top: -20px;
+    position: relative;
+    height: 530px;
+  }
+  .uku{
+   background-color: #e4b935;
+   color: white;
+   border-radius: 50%;
+   width: 4%;
+   padding: 8px 6px;
+   padding-right: 40px;
+   margin: 0 auto;
+   top: -40px;
+   left: 43%;
+   position: absolute;
+   font-size: 13px;
+  }
+
+  .porin{
+    padding-top: 300px;
+    text-align: center;
+  }
+
+  .porin {
+    padding-top: 200px;
+    padding: 50px 20px 30px 20px;
+    /* padding-right: 10px; */
+    position: relative;
+
+  }
+
+  .porin::before, .porin::after {
+    content: '';
+    width: 40px;
+    height: 30px;
+    position: absolute;
+  }
+
+  .porin::before {
+    border-left: solid 4px #e4b935;
+    border-top: solid 4px #e4b935;
+    top: 33px;
+    left: 10px;
+  }
+
+  .porin::after {
+    border-right: solid 4px #e4b935;
+    border-bottom: solid 4px #e4b935;
+    bottom: 40px;
+    right: 20px;
+  }
+
+  .foko{
+  display: none;
+  }
+.fokofr{
+text-align: center;
+font-size: 15px;
+}
+
+
+  .hokode{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-top: 4px;
+    font-size: 10px;
+     flex-wrap: wrap;
+  }
+
+  .kami{
+    border: 3px solid yellow;
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+    background: white;
+    margin-bottom: -50px;
+   margin-top: 20px;
+  }
+  .what img{
+    width: 40%;
+  }
+  .porin .unnko{
+font-size: 16px;
+  }
+  .porin .ohuhuh{
+    margin-top: -25px;
+    font-size: 16px;
+    padding-top: 10px;/
+  }
+
+  /* なんか変なやつ３つフレックスボックスが並ぶやつ。 */
+
+
+  .kakumeiu{
+    margin-top: -60px;
+    background-image:url("../img/aboutsecondbgsp.jpg");
+    background-size:100%;
+    height:600px;
+  }
+  .kakumei{
+  display: none;
+  }
+
+  .kutuw{
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+  }
+  .kutuw h2{
+  font-size: 16px;
+  }
+  .kutuw p{
+    font-size: 12px;
+
+  }
+
+  .kaitou{
+margin: 0 auto;
+  }
+
+  .koushiu, .hoshiu, .boushiu{
+    border: 1px solid #FFF;
+    border-radius: 5px;
+      background: white;
+      text-align: center;
+      width: 80%;
+      margin: 0 auto;
+      height:110px;
+      margin-top: 10px;
+      margin-left: 40px;
+  }
+  .koushiu p, .hoshiu p, .boushiu p{
+padding: 0;
+margin-top: 7px;
+margin-bottom: 0px;
+  }
+
+  .llllou{
+    padding-bottom: 30px;
+  }
+
+  .takamoriu{
+    border: 4px solid #e4b935;
+    color: white;
+    background-color: #e4b935;
+    border-radius: 10px;
+    width: 85%;
+    height: 10px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 10px;
+  }
+  .watanabesne, .watanabeJ, .tokoroko{
+    color:#e4b935;
+  }
+
+
+
+  .omakeu{
+    margin-top: 11px;
+    background-color: #004488;
+    background: blue;
+    text-align: center;
+    color:white;
+    height: 80px;
+    padding-top: 30px;
+    font-size: 12px;
+  }
+.jjsai{
+  margin-top: 0px;
+}
+.llllwww{
+  margin-bottom: 0px;
+}
+  /* iSaranomer;ixtuto */
+  .letisara{
+    display: none
+  }
+  .letisaraw{
+  margin-top: 150px;
+  background: white;
+  text-align: center;
+  }
+  .letisaraw h2{
+font-size: 16px;
+  }
+  .letisaraw p{
+  font-size: 12px;
+  }
+
+  .win{
+    display: flex;
+    justify-content: center;
+  }
+
+  .letisaraw img{
+    width: 66px;
+    margin-right: 10px;
+    height:66px;
+  }
+
+
+  /* isaranokokogatigua */
+  .tigau{
+    display: none;
+  }
+
+  .tigauu{
+    background: #F0DDB6;
+    height: 1350px;
+  }
+  .saitouu p{
+    margin-left: 15px;
+    font-size: 12px;
+  }
+  .taihenu{
+    text-align: center;
+    padding-top: 30px;
+  }
+  .gaxtutu{
+    display: flex;
+    justify-content: center;
+  }
+  .toyotomiu{
+    color: #e4b935;
+  }
+  .saitouu img{
+    margin: 0 auto;
+    width: 90%;
+    height: 150px;
+    margin-left: 20px;
+  }
+
+  .hakoniu{
+    text-align: center;
+    border: 2px solid yellow;
+    background: white;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  .hakoniu p{
+  font-size: 10px;
+  }
+
+
+  .okamau{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+  }
+
+  .watanabbesinesinesineu{
+    text-align: center;
+    margin: 0 auto;
+    color:#e4b935;
+  }
+
+  .sinesinesinesinesiu{
+    text-align: center;
+    margin: 0 auto;
+    color:#e4b935;
+  }
+  .sDEinesinesinesinesineu{
+    text-align: center;
+    margin: 0 auto;
+    color:#e4b935;
+  }
+
+  /* かっこ作りますよい */
+  #frame-box-002u {
+    padding: 30px;
+    position: relative;
+    font-size: 14px;
+  }
+
+  #frame-box-002u::before, #frame-box-002u::after {
+    content: '';
+    width: 30px;
+    height: 30px;
+    position: absolute;
+  }
+
+  #frame-box-002u::before {
+    border-left: solid 4px #e4b935;
+    border-top: solid 4px #e4b935;
+    top: 0;
+    left: 30px;
+  }
+
+  #frame-box-002u::after {
+    border-right: solid 4px #e4b935;
+    border-bottom: solid 4px #e4b935;
+    bottom: 0;
+    right: 30px;
+  }
+
+  .takamiu, .hikumiu{
+
+  }
+
+  .erenu{
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+    margin-bottom: 150px;
+  }
+
+  .tonarinohitogakawaiiu{
+    margin-left: 15px;
+    border: 3px solid white;
+    color: white;
+    margin-bottom: 100px;
+    width: 90%;
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+    font-size: 10px;
+  }
+  .tonarinohitogakawaiiu:last-child{
+    margin-left: 15px;
+    border: 3px solid white;
+    color: white;
+    width: 90%;
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+    font-size: 10px;
+  }
+
+  .huxoi{
+    display: none;
+  }
+  .huxoiu{
+    background-image:url("../img/teacherbgsp.jpg");
+    background-size:100%;
+    margin-top: -22px;
+    background-size:cover;
+    height: 1490px;
+  }
+
+  .takami{
+    margin-top: 250px;
+    margin-bottom: 150px;
+  }
+
+  .kawaiihau{
+    border-radius: 50%;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    left: 120px;
+    top: -90px;
+  }
+
+  /* 中盤 */
+  .centerda{
+    display: none;
+  }
+  .centerdau{
+    background:#e4b935;
+    text-align: center;
+    height: 250px;
+  }
+
+  .sukikamou{
+    border-radius: 50%;
+    background: white;
+    width: 80px;
+    height: 70px;
+    top: 50px;
+  　text-align: center;
+    margin: 0 auto;
+    padding-top: 12px;
+    margin-top: 10px;
+  }
+  .gomenu{
+    padding-top: 20px;
+  }
+
+  .heisyau{
+    color: white;
+  }
+
+  .sinesinesinesineu{
+    font-size: 15px;
+  }
+  /* かっこ作ります */
+
+  #frame-box-003u {
+    padding: 30px;
+    position: relative;
+    font-size: 14px;
+  }
+
+  #frame-box-003u::before, #frame-box-003u::after {
+    content: '';
+    width: 30px;
+    height: 30px;
+    position: absolute;
+  }
+
+  #frame-box-003u::before {
+    border-left: solid 4px #FFF;
+    border-top: solid 4px #FFF;
+    top: 0;
+    left: 30px;
+  }
+
+  #frame-box-003u::after {
+    border-right: solid 4px #FFF;
+    border-bottom: solid 4px #FFF;
+    bottom: 0;
+    right: 30px;
+  }
+
+  /* たけさんきたぞー */
+  .tuini{
+    display: none;
+  }
+  .daitouryou{
+    overflow: hidden;
+
+  }
+  .mesa{
+    font-size: 12px;
+  }
+  .sankakuu{
+    width: 0;
+    height: 0;
+    border: 40px solid transparent;
+    border-top: 40px solid #e4b935;
+    margin: 0 auto;
+    margin-top: -44px;
+  }
+  .kurei{
+    margin-top: -30px;
+  }
+
+  .komeu{
+    text-align: center;
+
+  }
+
+  .aaaau, .cccu, .bbbu{
+   width: 116px;
+   height: 116px;
+    border: 3px solid yellow;
+    float: left;
+  }
+  .aaaau img, .cccu img, .bbbu img{
+width: 116px;
+height: 116px;
+  }
+.hutuu, .itu, .hsasau{
+float: right;
+
+  font-size: 11px;
+}
+
+.hutuu{
+margin-left: -50px;
+}
+
+  .godgodu, .kokokarau, .sumikarau{
+overflow: hidden;
+margin-bottom: 30px;
+  }
+
+  .sineu{
+    text-decoration: underline;
+  }
+
+  /* isarademanaberunaiyou */
+   .isaramanabu{
+     display: none;
+   }
+  .aoi{
+    display: none;
+  }
+  .yaritaiu{
+    border: 2px solid blue;
+    width: 80%;
+    text-align: center;
+    background: white;
+  }
+  .oppaiu{
+    border: 2px solid blue;
+    width: 80%;
+    text-align: center;
+    background: white;
+  }
+
+  .sainouu{
+    border-bottom:2px solid blue;
+    background: blue;
+    padding: 20px;
+    margin: 0;
+    color: white;
+  }
+
+
+  .yaritaiu p, .oppaiu p{
+    border-bottom: dotted 1px #8ec6ff;
+    margin-bottom: 7px;
+    padding-bottom: 10px;
+  }
+  .yaritaiu p:last-child, .oppaiu p:last-child{
+    border-bottom:none;
+  }
+
+  .urusainau{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+  }
+  .urusainau h2{
+font-size: 18px;
+  }
+  .urusainau h3{
+font-size: 16px;
+  }
+  .oppaiu{
+    margin: 0 auto;
+    width: 95%;
+  }
+  .yaritaiu{
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    width: 95%;
+  }
+
+
+  .isaramanabuu{
+    background-image:url("../img/classbgsp.jpg");
+    background-size: 100%;
+    height: 1300px;
+    background-size: cover;
+  }
+
+  .aoiu{
+    background: blue;
+    height: 50px;
+    color: white;
+    margin-top: -50px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 70px;
+  }
+
+.zyukou{
+display: none;
+}
+
+  .namaikina{
+    text-align: center;
+  }
+.omonu{
+border: 1px solid #F0DDD0;
+background: #F0DDD0;
+width: 90%;
+height: 5%;
+margin: 0 auto;
+margin-top: 10px;
+  padding: 6px;
+}
+.camira{
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+.lomanu{
+background:  #F0DDD0;
+  width: 90%;
+  padding: 6px;
+  margin: 0 auto;
+  display:none;
+}
+.lomanu p{
+font-size: 10px;
+}
+.namaikina img{
+width: 100%;
+}
+  .gazouu{
+    display: inline-block;
+    text-align: center;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-left: 70px;
+  }
+
+  .tuyokunaritai{
+    display: inline-block;
+  }
+  .sukidanadiv, .tanomo{
+    display: none;
+  }
+
+  .skillupup,.skillupupd,.skillupupf,.skillupupc,.skillupupa{
+    margin: 0 auto;
+    background: #F0DDB6;
+    width: 85%;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+  }
+
+  .sukidanadiv{
+    margin-left: 300px;
+  }
+
+  .skillupupd,.skillupupf,.skillupupc,.skillupupa{
+    margin-top: -8px;
+  }
+
+  .tanomo{
+    margin-left: 300px;
+  }
+
+  .skillupupa{
+    margin-bottom: 50px;
+  }
+
+
+  .whatup{
+display: none;
+  }
+
+.kamirakabero{
+font-size: 10px;
+padding-top: 10px;
+}
+.itudaxtute{
+padding-top: 40px;
+text-align: center;
+font-size: 24px;
+}
+.whatupu{
+background-image: url(../img/bangkokbgsp.jpg);
+background-size: 100%;
+background-position: center;
+color: white;
+height: 400px;
+}
+
+.kamirakabero, .shown{
+padding-left: 35px;
+}
+
+.shown{
+font-size: 12px;
+}
+  .biburado{
+    display: none;
+  }
+
+.nemuisau{
+border:2px solid #FFF;
+width: 90%;
+margin: 0 auto;
+height: 300px;
+}
+.nemuiu{
+  overflow: hidden;
+}
+.nemuiu:last-child{
+margin-bottom: 20px;
+}
+.nemuiu:first-child{
+margin-top: 50px;
+}
+.boss{
+float: left;
+border: 1px solid#FFF;
+border-radius: 50%;
+width: 50px;
+height: 50px;
+font-size: 12px;
+margin-left: 30px;
+margin-bottom: 0px;
+text-align:center;
+background: #FFF;
+color:  #F0DDB6;
+line-height: 50px;
+}
+
+.mutekiore{
+position: absolute;
+}
+
+.aaaaaaaaask{
+display: none;
+}
+.aaaaaaaaasku{
+float: right;
+font-size: 8px;
+margin-bottom: -10px;
+margin-top: 15px;
+margin-right: 20px;
+padding-bottom: 0px;
+}
+
+  .biburadou{
+    background: #F0DDB6;
+    margin-top: -20px;
+    height: 620px;
+  }
+
+  .kkusou{
+    padding-top: 30px;
+    text-align: center;
+    margin-bottom: 100px;
+    font-size: 16px;
+  }
+  .kkusou p{
+  font-size: 14px;
+  }
+
+  .korosuniu{
+    position: absolute;
+    left: 75px;
+    border: 1px solid #F0DDB6;
+    width: 65%;
+    top: -50px;
+    text-align: center;
+    margin-bottom: 10px;
+    background: #F0DDB6;
+
+  }
+
+  .possitonkau{
+    position: relative;
+  }
+
+
+  .possitonka{
+    padding: 30px;
+    position: relative;
+  }
+
+  .possitonka::before, .possitonka::after {
+    content: '';
+    width: 280px;
+    height: 30px;
+    position: absolute;
+  }
+
+  .possitonka::before {
+    border-top: solid 4px #FFF;
+    top: 0;
+    left: 0px;
+  }
+
+  .possitonka::after {
+    border-bottom: solid 4px #FFF;
+    top: -30px;
+    right: 0px;
+  }
+  .korosuni{
+    position: absolute;
+    top: -70px;
+    left: 350px;
+    font-size: 24px;
+  }
+
+  .possitonka{
+    position: relative;
+    margin-top: 100px;
+  }
+
+  /* 疲れたしんどーねむー */
+
+
+
+  .gomiwomikaesu{
+display: none;
+  }
+  .gomiwomikaesuu{
+    text-align: center;
+    background-image:url("../img/specialdetailsp.jpg");
+    background-size: 100%;
+    background-size: cover;
+    height: 450px;
+    margin-top: -30px;
+    padding-top: 70px;
+    color: white;
+  }
+.gomiwomikaesuu h2{
+  font-size: 20px;
+}
+.gomiwomikaesuu h3{
+  font-size: 12px;
+}
+.gomiwomikaesuu p{
+  font-size: 12px;
+}
+  .zennzennu {
+    padding: 30px;
+    position: relative;
+  }
+
+  .zennzennu::before, .zennzennu::after {
+    content: '';
+    width: 30px;
+    height: 30px;
+    position: absolute;
+  }
+
+  .zennzennu::before {
+    border-left: solid 4px #FFF;
+    border-top: solid 4px #FFF;
+    top: 0;
+    left: 30px;
+  }
+
+  .zennzennu::after {
+    border-right: solid 4px #FFF;
+    border-bottom: solid 4px #FFF;
+    bottom: 0;
+    right: 30px;
+  }
+
+
+
+  .gekoku{
+    display: none;
+  }
+  .gekokuu h2{
+    text-align: center;
+    font-size: 16px;
+  }
+  .gekokuu img{
+    width: 95%;
+    height:288px;
+
+  }
+  .gekokuu h3{
+    text-align: center;
+    font-size: 14px;
+  }
+
+  .tennsaihau{
+   font-size: 14px;
+   margin-left: 50px;
+  }
+
+  .omaesineu{
+    margin-left: 40px;
+  }
+
+  /* コンタクトフォーム */
+  .opop,.iiui,.yaritiin{
+    width: 70%;
+    height:50px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  .yariman{
+    width: 70%;
+    height: 100px;
+    margin-top: 30px;
+    border-radius: 2px;
+    padding-top: 0px;
+  }
+
+  .kusoto{
+    background: #F0DDB6;
+    text-align: center;
+    height: 650px;
+  }
+
+  .hasinomi{
+    width: 70%;
+    height: 50px;
+    border-radius:20px;
+    background: red;
+    color: white;
+    margin-top: 40px;
+    font-size: 24px;
+  }
+
+  .cuplw{
+    padding-top: 20px;
+  }
+
+  /* 切り替え */
+  /* アコーディオン */
+
+  .situgioutou{
+    display: none;
+  }
+  .omonuu{
+    border: 1px solid gray;
+    width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+  }
+  .lomanuu{
+    margin-left: 30px;
+    display:none;
+    font-size: 13px;
+  }
+
+  .situgioutouuu h2{
+    text-align: center;
+  }
+
+  /* 終わりの章 */
+  .nexttime{
+    text-align: center;
+    background:  #F2F2F2;
+    margin-top: -15px;
+    padding-top: 20px;
+  }
+.amanda{
+  font-size: 10px;
+  margin-top: 70px;
+}
+
+
+  .fight{
+    margin-right: 10px;
+    font-size: 10px;
+  }
+
+  .top{
+    margin-right: 20px;
+  }
+  .kotoba{
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+  }
+  .kotoba::after {
+    position: absolute;
+    bottom: 1px;
+    left: 0;
+    content: "";
+    width: 100%;
+    height: 1px;
+    background: #333;
+    opacity: 0;
+    visibility: hidden;
+    transition: .1s;
+  }
+  .kotoba:hover::after {
+    bottom: -4px;
+    opacity: 1;
+    visibility: visible;
+  }
+  #acMenuuu i{
+    color: skyblue;
+  }
+  #back-to-top i{
+  font-size: 60px;
+  color: gray;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 1024px) {
+.aaaaaaaaasku{
+  display: none;
+}
+.mogura{
+  margin: 0 auto;
+}
+.fabi{
+  position: absolute;
+  width: 100%;
+  left: -60px;
+  }
+
+.ryouseibai{
+right:280px;
+  position: absolute;
+}
+    .go{
+      float: left;
+      margin-left: 50px;
+      padding-top: 10px;
+    }
+
+    .go1{
+      float: left;
+      top: -10px;
+      left: -300px;
+      position: relative;
+    }
+    .ed{
+      float: right;
+    }
+
+    header{
+      background-color: white;
+      overflow: hidden;
+      height: 70px;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom:0;
+      z-index:1;
+      width: 100%;
+    }
+header .logogo{
+  width: 40%;
+  height: 40%;
+  position: relative;
+  top: 25px;
+  left: -40px;
+}
+    .btn1{
+      display: none;
+    }
+.aisiiteru{
+  background: red;
+  width: 80px;
+  height: 100px;
+  position: relative;
+}
+.harahextuta{
+  padding: 10px 20px 20px 20px;
+  position: absolute;
+}
+.seikyuusu{
+  position: absolute;
+  color: white;
+  padding-top: 30px;
+}
+.btn2{
+  display:inline-block;
+  background-color: red;
+  color: white;
+  border-radius: 30px;
+  text-decoration: none;
+  text-align: center;
+  padding: 10px 30px;
+  opacity: 0.6;
+  font-size: 16px;
+  margin-top: -55px;
+  margin-right:0px;
+  width: 18%;
+  position: absolute;
+  right: 100px;
+
+}
+    /* ポジションの配置で画像の真ん中に文字を持っていきます。 */
+
+    .bob .hhhhu{
+      display: none;
+    }
+    .bob{
+      position: relative;
+    }
+.bob .jjjjjjj{
+  width: 100%;
+  height: 500px;
+}
+    .bob .mariha{
+      position: absolute;
+      top: 33%;
+      left: 50%;
+      -ms-transform: translate(-50%,-50%);
+      -webkit-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      margin:0;
+      padding:0;
+      /*文字の装飾は省略*/
+      }
+    .bob .mmarini{
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      -ms-transform: translate(-50%,-50%);
+      -webkit-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      margin:0;
+      padding:0;
+      /*文字の装飾は省略*/
+      }
+
+    .bob .going {
+      position: absolute;
+        top: 53%;
+        left: 50%;
+        -ms-transform: translate(-50%,-50%);
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        margin:0;
+        padding:0;
+        /*文字の装飾は省略*/
+        }
+
+        .bob .hue{
+          position: absolute;
+          top: 68%;
+          left: 50%;
+          -ms-transform: translate(-50%,-50%);
+          -webkit-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+          margin:0;
+          padding:0;
+          /*文字の装飾は省略*/
+          }
+        .bob .huee{
+          position: absolute;
+          top: 72%;
+          left: 50%;
+          -ms-transform: translate(-50%,-50%);
+          -webkit-transform: translate(-50%,-50%);
+          transform: translate(-50%,-50%);
+          margin:0;
+          padding:0;
+          /*文字の装飾は省略*/
+          }
+
+    /* にばんめ */
+    .two{
+      text-align: center;
+      background: #e4b935;
+      margin-top: -23px;
+      height: 750px;
+    }
+   .dododod{
+     display: none;
+   }
+    .gomikuzu{
+      background: white;
+      color: red;
+      border-radius: 5px;
+      width: 70%;
+      text-align: center;
+      margin: 0 auto;
+      margin-bottom: 20px;
+    }
+    .btn2{
+      display: none;
+    }
+    .btn22{
+     display: inline-block;
+     background-color: red;
+     color: white;
+     border-radius: 60px;
+     text-decoration: none;
+     padding: 25px 30px;
+     opacity: 0.7;
+     font-size: 20px;
+     margin-top: 20px;
+     margin-right:40px;
+     margin-bottom: 30px;
+     width: 70%;
+    }
+
+    .btn22:hover{
+      opacity: 1.0;
+    }
+
+    .one{
+      padding-top: 50px;
+      color: white;
+      font-size: 20px;
+    }
+
+
+    /* 稼ぐ力なんとかのページ入ります　 */
+    .robot{
+      background-image:url("../img/introbottom.jpg");
+      text-align: center;
+
+      background-size:100%;
+      background-repeat:no-repeat;
+      background-size: cover;
+      height: 600px;
+      width:100%;
+      margin-top: -20px;
+      padding-top: 50px;
+    background-position: center;
+    }
+
+    .kasususu{
+      border-bottom: 4px solid #e4b935;
+      font-weight: bold;
+      font-size: 20px;
+    }
+
+    #frame-box-001{
+      display: none;
+    }
+
+    #frame-box-0022 {
+    	padding-top: -20px;
+      padding-right: 10px;
+      margin-top: 10px;
+    	position: relative;
+    }
+
+    #frame-box-0022::before, #frame-box-0022::after {
+    	content: '';
+    	width: 40px;
+    	height: 30px;
+    	position: absolute;
+    }
+
+    #frame-box-0022::before {
+    	border-left: solid 4px #e4b935;
+    	border-top: solid 4px #e4b935;
+    	top: -43px;
+    	left: 10px;
+    }
+
+    #frame-box-0022::after {
+    	border-right: solid 4px #e4b935;
+    	border-bottom: solid 4px #e4b935;
+    	bottom: -3px;
+    	right: 20px;
+    }
+    .WWWWW{
+      display: none;
+    }
+
+    /* ノマドエンジニア育成講座 */
+    /* iSara[イサラ]とは */
+
+    .what{
+      background-color: #eedcb3;
+      margin-top: -20px;
+      position: relative;
+      height: 530px;
+    }
+    .uku{
+     background-color: #e4b935;
+     color: white;
+     border-radius: 50%;
+     width: 2%;
+     padding: 8px 5px;
+     padding-right: 40px;
+     margin: 0 auto;
+     top: -40px;
+     left: 47%;
+     position: absolute;
+     font-size: 13px;
+    }
+
+    .porin{
+      padding-top: 300px;
+      text-align: center;
+    }
+
+    .porin {
+      padding-top: 200px;
+    	padding: 50px 20px 30px 20px;
+      /* padding-right: 10px; */
+    	position: relative;
+    }
+
+    .porin::before, .porin::after {
+    	content: '';
+    	width: 40px;
+    	height: 30px;
+    	position: absolute;
+    }
+
+    .porin::before {
+      border-left: solid 4px #e4b935;
+      border-top: solid 4px #e4b935;
+      top: 33px;
+      left: 10px;
+    }
+
+    .porin::after {
+    	border-right: solid 4px #e4b935;
+    	border-bottom: solid 4px #e4b935;
+    	bottom: 40px;
+    	right: 20px;
+    }
+
+    .foko{
+    display: none;
+    }
+.fokofr{
+  text-align: center;
+  font-size: 15px;
+}
+
+
+    .hokode{
+      list-style: none;
+    	display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-right: 30px;
+      background-color: white;
+      margin-top: 4px;
+      font-size: 10px;
+    }
+
+    .kami{
+      border: 3px solid yellow;
+      width: 85%;
+      margin: 0 auto;
+      text-align: center;
+      background: white;
+      margin-bottom: -50px;
+     margin-top: 20px;
+    }
+    .what img{
+      width: 40%;
+    }
+    .porin .unnko{
+
+    }
+    .porin .ohuhuh{
+      margin-top: -25px;
+    }
+
+    /* なんか変なやつ３つフレックスボックスが並ぶやつ。 */
+
+
+    .kakumeiu{
+      margin-top: -60px;
+      background-image:url("../img/aboutsecondbgsp.jpg");
+      background-size:100%;
+      height:910px;
+    }
+    .kakumei{
+    display: none;
+    }
+
+    .kutuw{
+      text-align: center;
+      padding-top: 80px;
+      color: white;
+    }
+
+    .kaitou{
+
+    }
+
+    .koushiu, .hoshiu, .boushiu{
+　　　border: 1px solid #FFF;
+border-radius: 5px;
+    background: white;
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+    padding-top: 5px;
+    margin-top: 20px;
+    }
+
+    .llllou{
+      padding-bottom: 30px;
+    }
+
+    .takamoriu{
+      border: 4px solid #e4b935;
+      color: white;
+      background-color: #e4b935;
+      border-radius: 10px;
+      width: 65%;
+      height: 20px;
+      text-align: center;
+      margin: 0 auto;
+      margin-top: 20px;
+    }
+    .watanabesne, .watanabeJ, .tokoroko{
+      color:#e4b935;
+    }
+
+    .kaito{
+      display: none;
+    }
+
+    .omakeu{
+      margin-top: 90px;
+      background-color: #004488;
+      background: blue;
+      text-align: center;
+      color:white;
+      height: 120px;
+      padding-top: 30px;
+    }
+  .jjsai{
+    margin-top: 0px;
+  }
+  .llllwww{
+    margin-bottom: 0px;
+  }
+    /* iSaranomer;ixtuto */
+    .letisara{
+      display: none
+    }
+    .letisaraw{
+    margin-top: 200px;
+    background: white;
+    text-align: center;
+    }
+
+    .win{
+      display: flex;
+      justify-content: center;
+    }
+
+    .letisaraw .Z{
+      margin-right: 30px;
+    }
+
+
+    /* isaranokokogatigua */
+    .tigau{
+      display: none;
+    }
+
+    .tigauu{
+      background: #F0DDB6;
+      height: 1450px;
+    }
+    .saitouu p{
+      margin-left: 100px;
+    }
+    .taihenu{
+      text-align: center;
+      padding-top: 30px;
+    }
+    .gaxtutu{
+      display: flex;
+      justify-content: center;
+    }
+    .toyotomiu{
+      color: #e4b935;
+    }
+    .saitouu img{
+      margin-left: 230px;
+      width: 300px;
+      height: 150px;
+    }
+
+    .hakoniu{
+      text-align: center;
+      border: 2px solid yellow;
+      background: white;
+      width: 80%;
+      margin: 0 auto;
+      margin-top: 20px;
+    }
+    .hakoniu p{
+    font-size: 10px;
+    }
+
+
+    .okamau{
+      text-align: center;
+      margin-top: 20px;
+      font-size: 12px;
+    }
+
+    .watanabbesinesinesineu{
+      text-align: center;
+      margin: 0 auto;
+      color:#e4b935;
+    }
+
+    .sinesinesinesinesiu{
+      text-align: center;
+      margin: 0 auto;
+      color:#e4b935;
+    }
+    .sDEinesinesinesinesineu{
+      text-align: center;
+      margin: 0 auto;
+      color:#e4b935;
+    }
+
+    /* かっこ作りますよい */
+    #frame-box-002u {
+    	padding: 30px;
+    	position: relative;
+    }
+
+    #frame-box-002u::before, #frame-box-002u::after {
+    	content: '';
+    	width: 30px;
+    	height: 30px;
+    	position: absolute;
+    }
+
+    #frame-box-002u::before {
+    	border-left: solid 4px #e4b935;
+    	border-top: solid 4px #e4b935;
+    	top: 0;
+      left: 30px;
+    }
+
+    #frame-box-002u::after {
+    	border-right: solid 4px #e4b935;
+    	border-bottom: solid 4px #e4b935;
+    	bottom: 0;
+    	right: 30px;
+    }
+
+    .takamiu, .hikumiu{
+
+    }
+
+    .erenu{
+      text-align: center;
+      color: white;
+      padding-top: 70px;
+      margin-bottom: 150px;
+    }
+
+    .tonarinohitogakawaiiu{
+      margin-left: 70px;
+      border: 3px solid white;
+      color: white;
+      margin-bottom: 100px;
+      width: 80%;
+      text-align: center;
+      position: relative;
+      padding-top: 30px;
+      font-size: 10px;
+    }
+
+    .huxoi{
+      display: none;
+    }
+    .huxoiu{
+      background-image:url("../img/teacherbgsp.jpg");
+      background-size:100%;
+      margin-top: -22px;
+      height: 1400px;
+    }
+
+    .takami{
+      margin-top: 250px;
+      margin-bottom: 150px;
+    }
+
+    .kawaiihau{
+      border-radius: 50%;
+      position: absolute;
+      width: 120px;
+      height: 120px;
+      left: 240px;
+      top: -90px;
+    }
+
+    /* 中盤 */
+    .centerda{
+      display: none;
+    }
+    .centerdau{
+      background:#e4b935;
+      margin-top: -28px;
+      text-align: center;
+      height: 300px;
+    }
+
+    .sukikamou{
+      padding-top: 10px;
+      border-radius: 50%;
+      background: white;
+      width: 80px;
+      height: 70px;
+      top: 50px;
+    　text-align: center;
+      margin: 0 auto;
+      padding-top: 12px;
+      margin-top: 30px;
+    }
+    .gomenu{
+      padding-top: 20px;
+    }
+
+    .heisyau{
+      color: white;
+    }
+
+    .sinesinesinesineu{
+      font-size: 15px;
+    }
+    /* かっこ作ります */
+
+    #frame-box-003u {
+    	padding: 30px;
+    	position: relative;
+      font-size: 20px;
+    }
+
+    #frame-box-003u::before, #frame-box-003u::after {
+    	content: '';
+    	width: 30px;
+    	height: 30px;
+    	position: absolute;
+    }
+
+    #frame-box-003u::before {
+    	border-left: solid 4px #FFF;
+    	border-top: solid 4px #FFF;
+    	top: 0;
+      left: 30px;
+    }
+
+    #frame-box-003u::after {
+    	border-right: solid 4px #FFF;
+    	border-bottom: solid 4px #FFF;
+    	bottom: 0;
+    	right: 30px;
+    }
+
+    /* たけさんきたぞー */
+    .tuini{
+      display: none;
+    }
+    .daitouryou{
+      overflow: hidden;
+
+    }
+    .sankakuu{
+    	width: 0;
+    	height: 0;
+    	border: 40px solid transparent;
+    	border-top: 40px solid #e4b935;
+      margin: 0 auto;
+      margin-top: -44px;
+    }
+    .kurei{
+      margin-top: -30px;
+    }
+
+    .komeu{
+      text-align: center;
+
+    }
+
+    .aaaau, .cccu, .bbbu{
+     width: 250px;
+     height: 250px;
+      border: 3px solid yellow;
+      float: left;
+    }
+.hutuu, .itu, .hsasau{
+  float: right;
+    margin-right: 80px;
+}
+
+.hutuu{
+  margin-left: -50px;
+  margin-right: 80px;
+}
+
+    .godgodu, .kokokarau, .sumikarau{
+overflow: hidden;
+margin-bottom: 30px;
+    }
+
+    .sineu{
+      text-decoration: underline;
+    }
+
+    /* isarademanaberunaiyou */
+     .isaramanabu{
+       display: none;
+     }
+    .aoi{
+      display: none;
+    }
+    .yaritaiu{
+      border: 2px solid blue;
+      width: 80%;
+      text-align: center;
+      background: white;
+    }
+    .oppaiu{
+      border: 2px solid blue;
+      width: 80%;
+      text-align: center;
+      background: white;
+    }
+
+    .sainouu{
+      border-bottom:2px solid blue;
+      background: blue;
+      padding: 20px;
+      margin: 0;
+      color: white;
+    }
+
+
+    .yaritaiu p, .oppaiu p{
+      border-bottom: dotted 1px #8ec6ff;
+      margin-bottom: 7px;
+      padding-bottom: 10px;
+    }
+    .yaritaiu p:last-child, .oppaiu p:last-child{
+      border-bottom:none;
+    }
+
+    .urusainau{
+      text-align: center;
+      color: white;
+      padding-top: 50px;
+    }
+    .oppaiu{
+      margin: 0 auto;
+    }
+    .yaritaiu{
+      margin: 0 auto;
+      margin-top: 50px;
+      margin-bottom: 30px;
+    }
+
+    .oppai{
+      padding-top: -50px;
+      margin-bottom: 100px;
+    }
+
+    .isaramanabuu{
+      background-image:url("../img/classbgsp.jpg");
+      background-size: 100%;
+      height: 1300px;
+    }
+
+    .aoiu{
+      background: blue;
+      height: 100px;
+      color: white;
+      margin-top: -50px;
+      text-align: center;
+      padding-top: 30px;
+    }
+
+
+.zyukou{
+  display: none;
+}
+
+    .namaikina{
+      text-align: center;
+    }
+.omonu{
+  border: 1px solid #F0DDD0;
+  background: #F0DDD0;
+  width: 80%;
+  padding:15px;
+  height: 20%;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.lomanu{
+  background:  #F0DDD0;
+    width: 80%;
+    padding: 16px;
+    margin: 0 auto;
+    display:none;
+}
+.lomanu p{
+  font-size: 10px;
+}
+.namaikina img{
+  width: 100%;
+}
+    .gazouu{
+      display: inline-block;
+      text-align: center;
+      margin-right: 40px;
+      margin-top: 40px;
+      margin-left: 70px;
+    }
+
+    .tuyokunaritai{
+      display: inline-block;
+    }
+    .sukidanadiv, .tanomo{
+      display: none;
+    }
+
+    .skillupup,.skillupupd,.skillupupf,.skillupupc,.skillupupa{
+      margin: 0 auto;
+      background: #F0DDB6;
+      width: 85%;
+      margin-top: 50px;
+      border-radius: 10px;
+      padding-bottom: 20px;
+    }
+
+    .sukidanadiv{
+      margin-left: 300px;
+    }
+
+    .skillupupd,.skillupupf,.skillupupc,.skillupupa{
+      margin-top: -8px;
+    }
+
+    .tanomo{
+      margin-left: 300px;
+    }
+
+    .skillupupa{
+      margin-bottom: 50px;
+    }
+
+
+    .whatup{
+display: none;
+    }
+
+.kamirakabero{
+  font-size: 10px;
+  padding-top: 25px;
+}
+.itudaxtute{
+  padding-top: 90px;
+  text-align: center;
+}
+.whatupu{
+  background-image: url(../img/bangkokbgsp.jpg);
+  background-size: 100%;
+  background-position: center;
+  color: white;
+  height: 400px;
+}
+
+.kamirakabero, .shown{
+  padding-left: 85px;
+}
+
+.shown{
+  font-size: 12px;
+}
+    .biburado{
+      display: none;
+    }
+
+
+
+.nemuisau{
+  border:2px solid #FFF;
+  width: 90%;
+  margin: 0 auto;
+  height: 300px;
+}
+.nemuiu:last-child{
+  margin-bottom: 30px;
+}
+.nemuiu:first-child{
+  margin-top: 30px;
+}
+.boss{
+  display: inline-block;
+  border: 1px solid#FFF;
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  text-align:center;
+  background: #FFF;
+  color:  #F0DDB6;
+  line-height: 70px;
+}
+
+.mutekiore{
+  position: absolute;
+}
+
+.aaaaaaaaask{
+  display: inline-block;
+  font-size: 14px;
+  padding-left: 30px;
+  margin-bottom: -10px;
+  margin-top: 0px;
+}
+
+    .biburadou{
+      background: #F0DDB6;
+      margin-top: -20px;
+      height: 720px;
+    }
+
+    .kkusou{
+      padding-top: 50px;
+      text-align: center;
+      margin-bottom: 100px;
+    }
+
+    .korosuniu{
+      position: absolute;
+      left: 120px;
+      border: 1px solid #F0DDB6;
+      width: 65%;
+      top: -20px;
+      text-align: center;
+      margin-bottom: 10px;
+      background: #F0DDB6;
+
+    }
+
+    .possitonkau{
+      position: relative;
+    }
+
+
+
+    .possitonka{
+    	padding: 30px;
+    	position: relative;
+    }
+
+    .possitonka::before, .possitonka::after {
+    	content: '';
+    	width: 280px;
+    	height: 30px;
+    	position: absolute;
+    }
+
+    .possitonka::before {
+    	border-top: solid 4px #FFF;
+    	top: 0;
+      left: 0px;
+    }
+
+    .possitonka::after {
+    	border-bottom: solid 4px #FFF;
+    	top: -30px;
+    	right: 0px;
+    }
+    .korosuni{
+      position: absolute;
+      top: -70px;
+      left: 350px;
+      font-size: 24px;
+    }
+
+    .possitonka{
+      position: relative;
+      margin-top: 100px;
+    }
+
+    /* 疲れたしんどーねむー */
+
+
+
+    .gomiwomikaesu{
+  display: none;
+    }
+    .gomiwomikaesuu{
+      text-align: center;
+      background-image:url("../img/specialdetailsp.jpg");
+      background-size: 100%;
+      height: 550px;
+      margin-top: -30px;
+      padding-top: 70px;
+      color: white;
+    }
+
+    .zennzennu {
+    	padding: 30px;
+    	position: relative;
+    }
+
+    .zennzennu::before, .zennzennu::after {
+    	content: '';
+    	width: 30px;
+    	height: 30px;
+    	position: absolute;
+    }
+
+    .zennzennu::before {
+    	border-left: solid 4px #FFF;
+    	border-top: solid 4px #FFF;
+    	top: 0;
+      left: 30px;
+    }
+
+    .zennzennu::after {
+    	border-right: solid 4px #FFF;
+    	border-bottom: solid 4px #FFF;
+    	bottom: 0;
+    	right: 30px;
+    }
+
+
+
+    .gekoku{
+      display: none;
+    }
+    .gekokuu h2{
+      text-align: center;
+      font-size: 16px;
+    }
+    .gekokuu h3{
+      text-align: center;
+      font-size: 14px;
+    }
+
+    .tennsaihau{
+     font-size: 14px;
+     margin-left: 50px;
+    }
+
+    .omaesineu{
+      margin-left: 40px;
+    }
+
+    /* コンタクトフォーム */
+    .opop,.iiui,.yaritiin{
+      width: 70%;
+      height:50px;
+      border-radius: 5px;
+      margin-top: 20px;
+    }
+    .yariman{
+      width: 70%;
+      height: 100px;
+      margin-top: 30px;
+      border-radius: 2px;
+      padding-top: 0px;
+    }
+
+    .kusoto{
+      background: #F0DDB6;
+      text-align: center;
+      height: 650px;
+    }
+
+    .hasinomi{
+      width: 70%;
+      height: 50px;
+      border-radius:20px;
+      background: red;
+      color: white;
+      margin-top: 40px;
+      font-size: 24px;
+    }
+
+    .cuplw{
+      padding-top: 20px;
+    }
+
+    /* 切り替え */
+    /* アコーディオン */
+
+    .situgioutou{
+      display: none;
+    }
+    .omonuu{
+      border: 1px solid gray;
+      width: 80%;
+      padding: 10px;
+      margin: 0 auto;
+      margin-top: 10px;
+    }
+    .lomanuu{
+      margin-left: 60px;
+      display:none;
+      font-size: 15px;
+    }
+
+    .situgioutouuu h2{
+      text-align: center;
+    }
+
+    /* 終わりの章 */
+    .nexttime{
+      text-align: center;
+      background:  #F2F2F2;
+      margin-top: -15px;
+      padding-top: 20px;
+    }
+
+
+    .twitter-share-button{
+      padding-bottom: 60px;
+    }
+
+    .fight{
+      margin-right: 10px;
+      font-size: 10px;
+    }
+
+    .top{
+      margin-right: 20px;
+    }
+
+    .mogura{
+      margin: 0 auto;
+    }
+    .amanda{
+      margin-top: 80px;
+    }
+    .kotoba{
+      position: relative;
+      display: inline-block;
+      text-decoration: none;
+    }
+    .kotoba::after {
+      position: absolute;
+      bottom: 2px;
+      left: 0;
+      content: '';
+      width: 100%;
+      height: 2px;
+      background: #333;
+      opacity: 0;
+      visibility: hidden;
+      transition: .1s;
+    }
+    .kotoba:hover::after {
+      bottom: -4px;
+      opacity: 1;
+      visibility: visible;
+    }
+    #acMenuuu i{
+      color: skyblue;
+    }
+    #back-to-top i{
+    font-size: 50px;
+    color: gray;
+    }
+}
+@media screen and (min-width:1024px) {
+  /*　画面サイズ 1000px以上から適用　*/
+  .situgioutouuu{
+    display: none;
+  }
+.wwwww1, .WWWWW1{
+  display: none;
+}
+  .gekokuu{
+    display: none;
+  }
+  .gomiwomikaesuu{
+    display: none;
+  }
+
+.biburadou{
+  display: none;
+}
+.whatupu{
+  display: none;
+}
+
+.zyukouu{
+  display: none;
+}
+.isaramanabuu, .tuiniu, .centerdau, .huxoiu, .tigauu, .aoiu, .letisaraw, .dododods{
+  display: none;
+}
+#u_0_5{
+  display: none;
+}
+.twitter-share-button{
+  padding-bottom: 60px;
+}
+
+  .go{
+    float: left;
+    margin-left: 150px;
+    padding-top: 10px;
+  }
+
+  .go1{
+    float: left;
+    padding-top: 10px;
+  }
+  .ed{
+    float: right;
+  }
+
+  header{
+    background-color: white;
+    overflow: hidden;
+    height: 70px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom:0;
+    z-index:1;
+  }
+
+  .btn1{
+   display:block;
+   background-color: red;
+   color: white;
+   border-radius: 30px;
+   text-decoration: none;
+   text-align: center;
+   padding: 10px 30px;
+   opacity: 0.6;
+   font-size: 16px;
+   margin-top: -55px;
+   margin-right:0px;
+   width: 18%;
+   position: absolute;
+   right: 100px;
+
+  }
+
+  .btn1:hover{
+    opacity: 1.0;
+  }
+
+  /* ポジションの配置で画像の真ん中に文字を持っていきます。 */
+  .bob .jjjjjjj{
+    display: none;
+  }
+  .bob{
+    position: relative;
+  }
+  .bob .hhhhu{
+    width: 100%;
+    height: 500px;
+  }
+  .bob .mariha{
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin:0;
+    padding:0;
+    /*文字の装飾は省略*/
+    }
+  .bob .mmarini{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin:0;
+    padding:0;
+    /*文字の装飾は省略*/
+    }
+
+  .bob .going {
+    position: absolute;
+      top: 53%;
+      left: 50%;
+      -ms-transform: translate(-50%,-50%);
+      -webkit-transform: translate(-50%,-50%);
+      transform: translate(-50%,-50%);
+      margin:0;
+      padding:0;
+      /*文字の装飾は省略*/
+      }
+
+      .bob .hue{
+        position: absolute;
+        top: 68%;
+        left: 50%;
+        -ms-transform: translate(-50%,-50%);
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        margin:0;
+        padding:0;
+        /*文字の装飾は省略*/
+        }
+      .bob .huee{
+        position: absolute;
+        top: 72%;
+        left: 50%;
+        -ms-transform: translate(-50%,-50%);
+        -webkit-transform: translate(-50%,-50%);
+        transform: translate(-50%,-50%);
+        margin:0;
+        padding:0;
+        /*文字の装飾は省略*/
+        }
+
+  /* にばんめ */
+  .two{
+    text-align: center;
+    background: #e4b935;
+    margin-top: -23px;
+    height: 650px;
+  }
+
+  .gomikuzu{
+    background: white;
+    color: red;
+    border-radius: 5px;
+    width: 38%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  .btn22{
+    display: none;
+  }
+  .btn2{
+   display: inline-block;
+   background-color: red;
+   color: white;
+   border-radius: 30px;
+   text-decoration: none;
+   padding: 35px 300px;
+   opacity: 0.7;
+   font-size: 26px;
+   margin-top: 20px;
+   margin-right:40px;
+   margin-bottom: 30px;
+  }
+
+  .btn2:hover{
+    opacity: 1.0;
+  }
+
+  .one{
+    padding-top: 50px;
+    color: white;
+    font-size: 20px;
+  }
+
+
+  /* 稼ぐ力なんとかのページ入ります　 */
+  .robot{
+    background-image:url("../img/introbottom.jpg");
+    text-align: center;
+    height: 580px;
+    background-size:100%;
+    width:100%;
+    margin-top: -20px;
+    padding-top: 50px;
+
+  }
+
+  .kasususu{
+    border-bottom: 4px solid #e4b935;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  #frame-box-001 {
+  	padding: 50px;
+    padding-right: 10px;
+  	position: relative;
+  }
+
+  #frame-box-001::before, #frame-box-001::after {
+  	content: '';
+  	width: 40px;
+  	height: 30px;
+  	position: absolute;
+  }
+
+  #frame-box-001::before {
+  	border-left: solid 4px #e4b935;
+  	border-top: solid 4px #e4b935;
+  	top: -3px;
+  	left: 350px;
+  }
+
+  #frame-box-001::after {
+  	border-right: solid 4px #e4b935;
+  	border-bottom: solid 4px #e4b935;
+  	bottom: -3px;
+  	right: 320px;
+  }
+
+  /* ノマドエンジニア育成講座 */
+  /* iSara[イサラ]とは */
+
+  .what{
+    background-color: #eedcb3;
+    margin-top: -20px;
+    position: relative;
+    height: 680px;
+  }
+  .uku{
+   background-color: #e4b935;
+   color: white;
+   border-radius: 50%;
+   width: 4%;
+   padding: 15px;
+   margin: 0 auto;
+   top: -40px;
+   left: 47%;
+   position: absolute;
+  }
+
+  .porin{
+    padding-top: 300px;
+    text-align: center;
+  }
+
+  .porin {
+    padding-top: 200px;
+  	padding: 50px;
+    padding-right: 10px;
+  	position: relative;
+  }
+
+  .porin::before, .porin::after {
+  	content: '';
+  	width: 40px;
+  	height: 30px;
+  	position: absolute;
+  }
+
+  .porin::before {
+  	border-left: solid 4px #e4b935;
+  	border-top: solid 4px #e4b935;
+  	top: 56px;
+  	left: 350px;
+  }
+
+  .porin::after {
+  	border-right: solid 4px #e4b935;
+  	border-bottom: solid 4px #e4b935;
+  	bottom: 40px;
+  	right: 320px;
+  }
+
+  .foko{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+
+
+  .hokode{
+    list-style: none;
+  	display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+    background-color: white;
+    margin-top: 4px;
+  }
+
+  .kami{
+    border: 3px solid yellow;
+    width: 85%;
+    margin: 0 auto;
+    text-align: center;
+    background: white;
+    margin-bottom: -50px;
+    padding-top: 30px;
+   margin-top: 20px;
+  }
+  .porin .unnko{
+    padding-top: 50px;
+  }
+  .porin .ohuhuh{
+    margin-top: -25px;
+  }
+
+  /* なんか変なやつ３つフレックスボックスが並ぶやつ。 */
+  .kakumeiu, .fokofr, #frame-box-0022, .WWWWW1{
+    display: none;
+  }
+  .kakumei{
+    margin-top: -60px;
+    background-image:url("../img/aboutsecondbg.jpg");
+    background-size:100%;
+    height:500px;
+  }
+
+  .kutu{
+    text-align: center;
+    padding-top: 80px;
+    color: white;
+  }
+  .kutuw{
+    display: none;
+  }
+
+  .kaito{
+  display: flex;
+  justify-content: center;
+  }
+
+  .koushi, .hoshi, .boushi{
+    margin-right: 20px;
+    background-color: white;
+    width: 350px;
+    text-align: center;
+    border-radius: 10px;
+  }
+
+  .takamori{
+    border: 4px solid #e4b935;
+    color: white;
+    background-color: #e4b935;
+    border-radius: 10px;
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  .watanabesne, .watanabeJ, .tokoroko{
+    color:#e4b935;
+  }
+  .omake{
+    margin-top: 50px;
+    background-color: #004488;
+    text-align: center;
+    color:white;
+    height: 120px;
+    padding-top: 30px;
+  }
+
+  /* iSaranomerixtuto */
+  .letisara{
+  margin-top: 200px;
+  background: white;
+  text-align: center;
+  }
+
+  .win{
+    display: flex;
+    justify-content: center;
+  }
+
+  .Z{
+    margin-right: 20px;
+  }
+
+
+  /* isaranokokogatigua */
+  .tigau{
+    background: #F0DDB6;
+    height: 1000px;
+  }
+  .taihen{
+    text-align: center;
+    padding-top: 30px;
+  }
+  .gaxtutu{
+    display: flex;
+    justify-content: center;
+  }
+  .toyotomi{
+    color: #e4b935;
+  }
+  .saitou{
+    margin-right: 29px;
+  }
+  .hakoni{
+    text-align: center;
+    border: 2px solid yellow;
+    background: white;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+
+  .okama{
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .watanabbesinesinesine{
+    margin-left: -70px;
+    color:#e4b935;
+    margin-top: 0px;
+  }
+
+  .sinesinesinesinesi{
+    margin-left: -150px;
+    color:#e4b935;
+    margin-top: 0px;
+  }
+  .sDEinesinesinesinesine{
+    margin-left:-170px;
+    color:#e4b935;
+    margin-top: 0px;
+  }
+
+  /* かっこ作りますよい */
+  #frame-box-002 {
+  	padding: 30px;
+  	position: relative;
+  }
+
+  #frame-box-002::before, #frame-box-002::after {
+  	content: '';
+  	width: 30px;
+  	height: 30px;
+  	position: absolute;
+  }
+
+  #frame-box-002::before {
+  	border-left: solid 4px #e4b935;
+  	border-top: solid 4px #e4b935;
+  	top: 0;
+    left: 430px;
+  }
+
+  #frame-box-002::after {
+  	border-right: solid 4px #e4b935;
+  	border-bottom: solid 4px #e4b935;
+  	bottom: 0;
+  	right: 430px;
+  }
+
+  .takami, .hikumi{
+    display: flex;
+    justify-content: center;
+  }
+
+  .eren{
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+  }
+
+  .tonarinohitogakawaii{
+    margin-right: 30px;
+    border: 3px solid white;
+    color: white;
+    margin-bottom: 50px;
+    width: 350px;
+    text-align: center;
+    position: relative;
+    padding-top: 30px;
+  }
+
+  .huxoi{
+    background-image:url("../img/teacherbg.jpg");
+    background-size:100%;
+    margin-top: -22px;
+  }
+
+  .takami{
+    margin-top: 250px;
+    margin-bottom: 150px;
+  }
+
+  .kawaiiha{
+    border-radius: 50%;
+    position: absolute;
+    left: 80px;
+    top: -160px;
+  }
+
+  /* 中盤 */
+  .centerda{
+    background:#e4b935;
+    margin-top: -28px;
+    text-align: center;
+    height: 350px;
+  }
+
+  .sukikamo{
+    padding-top: 10px;
+    border-radius: 50%;
+    background: white;
+    width: 80px;
+    height: 70px;
+    top: 50px;
+  　text-align: center;
+    margin: 0 auto;
+    padding-top: 12px;
+    margin-top: 30px;
+  }
+  .gomen{
+    padding-top: 20px;
+  }
+
+  .heisya{
+    color: white;
+  }
+
+  .sinesinesinesine{
+    font-size: 15px;
+  }
+  /* かっこ作ります */
+
+  #frame-box-003 {
+  	padding: 30px;
+  	position: relative;
+  }
+
+  #frame-box-003::before, #frame-box-003::after {
+  	content: '';
+  	width: 30px;
+  	height: 30px;
+  	position: absolute;
+  }
+
+  #frame-box-003::before {
+  	border-left: solid 4px #FFF;
+  	border-top: solid 4px #FFF;
+  	top: 0;
+    left: 300px;
+  }
+
+  #frame-box-003::after {
+  	border-right: solid 4px #FFF;
+  	border-bottom: solid 4px #FFF;
+  	bottom: 0;
+  	right: 300px;
+  }
+
+  /* たけさんきたぞー */
+
+  .sankaku{
+  	width: 0;
+  	height: 0;
+  	border: 30px solid transparent;
+  	border-top: 30px solid #e4b935;
+    margin: 0 auto;
+  }
+  .kurei{
+    margin-top: -30px;
+  }
+
+  .kome{
+    text-align: center;
+    margin-left: 100px;
+  }
+
+  .aaaa, .ccc, .bbb{
+    float: left;
+    margin-right: 45px;
+    border: 3px solid yellow;
+  }
+
+  .godgod, .kokokara, .sumikara{
+    overflow:hidden;
+    margin-left: 400px;
+    margin-top: 40px;
+  }
+
+  .sine{
+    text-decoration: underline;
+  }
+
+  /* isarademanaberunaiyou */
+  .yaritai, .oppai{
+    border: 2px solid blue;
+    width: 25%;
+    text-align: center;
+    display: inline-block;
+    background: white;
+  }
+
+  .sainou{
+    border-bottom:2px solid blue;
+    background: blue;
+    padding: 20px;
+    margin: 0;
+    color: white;
+  }
+
+
+  .yaritai p, .oppai p{
+    border-bottom: dotted 1px #8ec6ff;
+    margin-bottom: 7px;
+  }
+
+  .urusaina{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+  }
+
+  .yaritai{
+    margin-left: 300px;
+    margin-right: 40px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+
+  .oppai{
+    padding-top: -50px;
+    margin-bottom: 100px;
+  }
+
+  .isaramanabu{
+    background-image:url("../img/classbg.jpg");
+    background-size: 100%;
+  }
+
+  .aoi{
+    background: blue;
+    height: 100px;
+    color: white;
+    margin-top: -50px;
+    text-align: center;
+    padding-top: 30px;
+  }
+
+
+
+  .namaikina{
+    text-align: center;
+  }
+
+  .gazouu{
+    display: inline-block;
+    text-align: center;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-left: 70px;
+  }
+
+  .tuyokunaritai{
+    display: inline-block;
+  }
+
+  .skillupup,.skillupupd,.skillupupf,.skillupupc,.skillupupa{
+    margin: 0 auto;
+    background: #F0DDB6;
+    width: 85%;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+  }
+
+  .sukidanadiv{
+    margin-left: 300px;
+  }
+
+  .skillupupd,.skillupupf,.skillupupc,.skillupupa{
+    margin-top: -8px;
+  }
+
+  .tanomo{
+    margin-left: 300px;
+  }
+
+  .skillupupa{
+    margin-bottom: 50px;
+  }
+
+  .whatup{
+  background-image:url("../img/bangkokbg.jpg");
+  background-size: 100%;
+  height: 370px;
+  color: white;
+  padding: 90px;
+  }
+
+  .biburado{
+    text-align: center;
+  }
+
+
+
+  .nemuisa{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+  }
+
+  .nemui{
+    border-radius: 50%;
+    height: 230px;
+    width: 230px;
+    background: #FFF;
+    margin-right: 80px;
+    margin-top: 50px;
+  }
+
+  .biburado{
+    background: #F0DDB6;
+    margin-top: -20px;
+    height: 680px;
+  }
+
+  .kkuso{
+    padding-top: 50px;
+  }
+
+  /* ポジション関係と見た */
+
+  .possitonka{
+    border-left: 4px solid #FFF;
+    border-right: 4px solid #FFF;
+    border-bottom: 4px solid #FFF;
+    width: 85%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 50px;
+  }
+
+
+
+  .possitonka{
+  	padding: 30px;
+  	position: relative;
+  }
+
+  .possitonka::before, .possitonka::after {
+  	content: '';
+  	width: 280px;
+  	height: 30px;
+  	position: absolute;
+  }
+
+  .possitonka::before {
+  	border-top: solid 4px #FFF;
+  	top: 0;
+    left: 0px;
+  }
+
+  .possitonka::after {
+  	border-bottom: solid 4px #FFF;
+  	top: -30px;
+  	right: 0px;
+  }
+  .korosuni{
+    position: absolute;
+    top: -70px;
+    left: 350px;
+    font-size: 24px;
+  }
+
+  .possitonka{
+    position: relative;
+    margin-top: 100px;
+  }
+
+
+  .gomiwomikaesu{
+    text-align: center;
+    background-image:url("../img/specialdetail.jpg");
+    background-size: 100%;
+    height: 450px;
+    margin-top: -30px;
+    padding-top: 70px;
+    color: white;
+  }
+
+  .zennzenn {
+  	padding: 30px;
+  	position: relative;
+  }
+
+  .zennzenn::before, .zennzenn::after {
+  	content: '';
+  	width: 30px;
+  	height: 30px;
+  	position: absolute;
+  }
+
+  .zennzenn::before {
+  	border-left: solid 4px #FFF;
+  	border-top: solid 4px #FFF;
+  	top: 0;
+    left: 300px;
+  }
+
+  .zennzenn::after {
+  	border-right: solid 4px #FFF;
+  	border-bottom: solid 4px #FFF;
+  	bottom: 0;
+  	right: 300px;
+  }
+
+
+  .gekoku h2,h3{
+    text-align: center;
+  }
+
+  .omaesine{
+    display: inline;
+    float: left;
+    margin-left: 300px;
+    padding-top: 20px;
+  }
+  .tennsaiha{
+    display: inline;
+    float: right;
+    margin-right: 50px;
+  }
+
+  .gekoku{
+    overflow: hidden;
+  }
+
+  /* コンタクトフォーム */
+  .opop,.iiui,.yaritiin{
+    width: 70%;
+    height:50px;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  .yariman{
+    width: 70%;
+    height: 100px;
+    margin-top: 30px;
+    border-radius: 2px;
+    padding-top: 0px;
+  }
+
+  .kusoto{
+    background: #F0DDB6;
+    text-align: center;
+    height: 650px;
+  }
+
+  .hasinomi{
+    width: 70%;
+    height: 50px;
+    border-radius:20px;
+    background: red;
+    color: white;
+    margin-top: 40px;
+    font-size: 24px;
+  }
+
+  .cuplw{
+    padding-top: 20px;
+  }
+
+  /* 切り替え */
+  /* アコーディオン */
+  .omon{
+    border: 1px solid gray;
+    width: 70%;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 10px;
+    height: 10%;
+    font-size: 20px;
+  }
+  .loman{
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+  }
+  .loman:first-child{
+    display: block;
+  }
+
+  .situgioutou h2{
+    text-align: center;
+  }
+
+  /* 終わりの章 */
+  .nexttime{
+    text-align: center;
+    background:  #F2F2F2;
+    margin-top: -15px;
+    padding-top: 20px;
+  }
+
+
+
+  .fight{
+    margin-right: 10px;
+  }
+
+  .top{
+    margin-right: 20px;
+  }
+
+  .sinesinesine{
+    margin-right: 20px;
+  }
+  .fabi{
+  position: absolute;
+  width: 100%;
+  left: -55px;
+  }
+
+.ryouseibai{
+right:600px;
+  position: absolute;
+}
+.amanda{
+  margin-top: 60px;
+}
+.kotoba{
+  position: relative;
+  display: inline-block;
+  text-decoration: none;
+}
+.kotoba::after {
+  position: absolute;
+  bottom: 2px;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 2px;
+  background: #333;
+  opacity: 0;
+  visibility: hidden;
+  transition: .1s;
+}
+.kotoba:hover::after {
+  bottom: -4px;
+  opacity: 1;
+  visibility: visible;
+}
+#acMenu i{
+  color: skyblue;
+}
+#back-to-top i{
+font-size: 70px;
+color: gray;
+}
+
+}
